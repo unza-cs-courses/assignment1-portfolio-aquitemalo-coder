@@ -1,11 +1,11 @@
 {
-  "name": "portfolio",
+  "name": "assignment1-portfolio",
   "version": "1.0.0",
   "description": "Aquila Kilalo's Portfolio",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"No tests\""
+    "test": "node tests/visible/tests.js"
   },
   "author": "Aquila Kilalo",
   "license": "ISC"
-} 
+}
